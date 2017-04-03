@@ -1,0 +1,9 @@
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/rebuild_cache.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/edit_cache.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/AATest.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/install/local.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/install/strip.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/install.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/list_install_components.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/aaplus-static.dir
+/home/randy/Projects/Astronomy/AA+/V1.78/build/CMakeFiles/aaplus-shared.dir

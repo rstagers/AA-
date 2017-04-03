@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/AATest.dir/AATest.cpp.o  -o bin/AATest -rdynamic lib/libaaplus.a 
